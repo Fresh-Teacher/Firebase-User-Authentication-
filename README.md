@@ -1,2 +1,0 @@
-# Firebase User Authentication 
- 
